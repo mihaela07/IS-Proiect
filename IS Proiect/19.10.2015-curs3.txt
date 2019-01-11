@@ -1,0 +1,7 @@
+Diagrame UML
+
+-actor
+-scenarii - diferite scenarii pt acelas scop
+(pt fiecare utilizare avem mai multe scenarii)
+
+use case:

@@ -1,0 +1,259 @@
+body{
+    margin: auto 0;
+    font-family: 'Oswald', sans-serif;
+    background-color: #330000;   
+}
+
+h1{
+    color: #4d004d;
+    font-size: 30px;
+    font-family:'Oswald', sans-serif;  
+    text-align: center;   
+}
+
+h3{
+     color: whitesmoke;
+     font-size: 16px;
+     font-family:'Oswald', sans-serif;  
+     text-align: center; 
+     
+   
+}
+tabel{
+	padding-top: 20px;
+        align: center;
+	border : 0;   	
+}
+
+table.formular th{
+    padding: 7px 10px 1px 10px;
+    display: inline;
+    color: whitesmoke;    
+  }
+  
+  table.formular td{
+    padding: 7px 10px 1px 10px;
+    display: inline;
+    color: whitesmoke;    
+  }
+
+.meniu{
+    margin: 0 auto;
+    margin-right: 10px;
+    font-size: 1.2em;
+    font-family:'Oswald', sans-serif; 
+    margin: 10px;      
+   }
+   
+ .meniu a:hover{
+    text-decoration: underline;
+   }
+  
+#edit_user ,#add_user{
+    height:37px;
+    position: absolute;
+    right: 500px;
+    width: 180px;
+    padding: 10px;
+    border-color: white;
+    font-size: 18px;
+    border-bottom-right-radius: 30px; 
+    border-top-left-radius: 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+table.userpass td{
+     padding: 7px 10px 1px 10px;
+    display: inline;
+    color: whitesmoke;    
+}
+.username, .password{    
+    width: 10em;  
+    height: 2em;     
+}
+
+#login_button{
+    height:37px;
+    position: absolute;
+    right: 500px;
+    width: 180px;
+    padding: 10px;
+    border-color: white;
+    font-size: 18px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    font-weight: bold;  
+    outline: none;    
+}
+
+#login_form{
+    padding-top: 20px;
+    
+}
+
+
+a:hover{   
+  background-color: gray; 
+}
+
+a{
+    text-decoration: none;
+    color:whitesmoke;
+}
+
+#email {
+    padding-right: 43px;
+}
+
+#phone{
+    padding-right: 46px;
+}
+
+#function{
+    padding-right: 32px;
+   
+}
+#rolelist{
+    padding-right: 32px;
+}
+#description{
+    padding-right: 14px;    
+}
+#menu{
+      background-color: #4d004d;     
+      padding-bottom: 20px;
+      padding-top: 20px;
+      border:solid; 
+      border-bottom-color:appworkspace;
+}
+
+.mijloc{
+    height: 300px;
+    
+}
+
+#menubody{
+   padding-top: 30px;
+}
+
+.listing{
+     border-collapse: collapse;     
+/*     padding:0.2em 2ex 0.2em 2ex;*/
+}
+
+table.listing th{     
+    text-align: center;
+    font-size: 1em;      
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-spacing: 0.3rem;   
+    margin: 20px;
+    border: 3px inset #cecfd5;
+    color:whitesmoke;
+    background-color: darkcyan;
+}
+table.listing td{
+    text-align: center; 
+    font-size: 0.85em;     
+    border: 3px inset #cecfd5;
+    padding: 20px 15px;
+    color: gray;    
+}
+
+.listing a{
+    text-decoration: none;
+    font-size: 1.2em;
+    color: darkcyan;
+    font-weight: bolder; 
+}
+
+.listing a:hover{
+    color: red;
+    background-color: black;
+}
+
+.footer{    
+    background-color:#4d004d;
+    font-size: 12px;
+    text-align: center;
+    color: whitesmoke;
+    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;   
+    border-top: 3px solid whitesmoke;
+    margin-top: 430px;
+}
+
+.stanga{
+    position: absolute;
+    padding-left: 730px;
+    margin-top: 200px;
+    width: 500px;
+    height: 300px;
+    
+
+     
+}
+
+.denumiri
+{
+    padding-top: 90px;
+    padding-left: 150px;
+    text-decoration: bold;
+    font-size: 25px;
+}
+.cerinte
+{
+    padding-top: 30px;
+    padding-left: 110px;
+    padding-right: 50px;
+    color:white;
+    text-decoration: bold;
+    text-decoration: underline;
+}
+
+.descrieri
+{
+    padding-top: 10px;
+    padding-left: 110px;
+    padding-right: 50px;
+    color:white;
+    text-decoration: bold;
+}
+.imagini
+{
+  padding-right: 55px;
+  padding-left: 110px;
+
+
+}
+
+.upload
+{
+    width: 150px;
+    height: 50px;
+    margin-left : 110px;
+    margin-top: 50px;
+    text-decoration: bold;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #4d004d;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
